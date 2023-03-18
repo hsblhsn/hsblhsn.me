@@ -4,6 +4,7 @@ seoDescription: ""The Art of People" is a self-help book that teaches readers th
 datePublished: Sat Mar 18 2023 18:04:11 GMT+0000 (Coordinated Universal Time)
 cuid: clfea36bd00010amf5mzb0bva
 slug: book-review-the-art-of-people-11-simple-people-skills-that-will-get-you-everything-you-want-by-dave-kerpen
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cAtzHUz7Z8g/upload/d35d34b0582ce11c188d1e229a6149fd.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1679162639679/d4542e3b-7727-4dd6-b848-84c367c46fd2.jpeg
 tags: books, communication, bookreview
 
