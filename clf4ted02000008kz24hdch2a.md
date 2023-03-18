@@ -69,5 +69,3 @@ This imports the `Button` component from the `src/components/Button.tsx` file us
 ### Conclusion
 
 By creating a simple path alias for `@` that points to the `src` directory, we can simplify our imports and make our TypeScript code more readable. This is just a basic example of what's possible with path aliases – you can create as many aliases as you need, and use wildcard characters to match any file or folder names that come after the path alias.
-
-I hope this tutorial was helpful. Happy coding!
