@@ -3,6 +3,8 @@ title: "How to Set Up GPG Signing with Git on macOS"
 datePublished: Sun Mar 19 2023 18:50:27 GMT+0000 (Coordinated Universal Time)
 cuid: clffr6ium000009jtdbkkd1mr
 slug: how-to-set-up-gpg-signing-with-git-on-macos
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679251959732/668a9db8-9e5b-4892-a9fc-cf71ea45b6d4.webp
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1679252046428/0d0ab3d8-025d-46d4-8ffe-b4a47c400941.webp
 tags: github, git, macos, gpg
 
 ---
@@ -104,7 +106,7 @@ To allow others to verify your signed commits, you need to share your public key
 gpg --armor --export ABC1234567890123
 ```
 
-Replace `ABC1234567890123` with your key ID. This command will output your public key in ASCII-armored format. Share this key with others or add it to your GitHub, GitLab, or other Git hosting service account.
+Replace `ABC1234567890123` with your key ID. This command will output your public key in ASCII-armored format. Share this key with others or add it to your [GitHub](https://docs.github.com/en/authentication/managing-commit-signature-verification/adding-a-gpg-key-to-your-github-account), [GitLab](https://docs.gitlab.com/ee/user/project/repository/gpg_signed_commits/#add-a-gpg-key-to-your-account), or other Git hosting service account.
 
 **Conclusion**
 
